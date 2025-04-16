@@ -55,7 +55,7 @@ body {
   }
   
   .image-gallery img {
-    object-fit: cover; /* Maintains aspect ratio and prevents distortion */
+    /* object-fit: cover; Maintains aspect ratio and prevents distortion */
   }
   
   /* Footer Styling */
